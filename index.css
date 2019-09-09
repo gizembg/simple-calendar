@@ -1,0 +1,35 @@
+
+.yearmonth{
+    color: #000000;
+    margin-block-end: 8px;
+}
+
+.table {
+    width: 30%;
+    border-collapse: collapse;
+    border: #000000 2px solid;
+}
+
+.table td {
+    padding: 10px;
+    border: #000000 1px solid;
+}
+
+/* Define the default color for all the table rows */
+.table tr {
+    background: #ffffff;
+}
+.table th {
+    background: #dddddd;
+    padding: 10px;
+
+}
+
+/* Define the hover highlight color for the table row */
+.table td:hover {
+    background-color: #dddddd;
+}
+
+.buttons {
+    padding-top: 10px;
+}
